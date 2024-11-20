@@ -3,7 +3,7 @@ import { useState } from "react";
 import {Menu , X} from "lucide-react";
 
 // IMAGENES DE NAVBAR 
-import logo from "../assets/logo.png";
+import logo from "../assets/img/logo.png";
 import {navItems} from "../assets/constants";
 
 
